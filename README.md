@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Welcome to MecaNet, a project designed for the classification of mechanical objects using deep learning techniques. The script is divided into twelve steps, providing a comprehensive guide through the entire process.
+Welcome to 3d mesh objects classification with diffusionNet, this project is designed for the classification of 3d objects using deep learning techniques. The script is divided into twelve steps, providing a comprehensive guide through the entire process.
 
 ## Steps
 
